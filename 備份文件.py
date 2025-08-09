@@ -22,3 +22,21 @@ cp_read.close
 cpwrite.close
 #5.關閉文件
 
+# 1️⃣ 定義一個普通函式（function）
+# function 自訂 （）內參數
+# def function()
+
+'''def add(a, b):
+    """普通函式，回傳兩數相加"""
+    return a + b'''
+
+
+
+
+
+
+
+
+
+
+
